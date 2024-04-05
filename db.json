@@ -1,0 +1,16 @@
+{
+	"notes": [
+		{
+			"id": 1,
+			"title": "first json title",
+			"content": "First content",
+			"created_at": "01/12/12"
+		},
+		{
+			"id": 2,
+			"title": "second json title",
+			"content": "second content",
+			"created_at": "12/12/12"
+		}
+	]
+}
